@@ -22,7 +22,6 @@ Contains topicwise list of solved problems.
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 1 | 100% |
-| Hash Table | 1 | 100% |
 
 ## Topics
 
